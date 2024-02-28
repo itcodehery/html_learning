@@ -1,0 +1,55 @@
+/* FILEPATH: /e:/D/Coding/Repositories/html_learning/about/about.css */
+
+/* Reset default styles */
+body {
+    margin: 50px 200px;
+    padding: 0;
+}
+
+/* Container for the about page */
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Heading styles */
+.about-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Paragraph styles */
+.about-paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+/* Image styles */
+.about-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* Link styles */
+.about-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.about-link:hover {
+    text-decoration: underline;
+}
+
+.back-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
